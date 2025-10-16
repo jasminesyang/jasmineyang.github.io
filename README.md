@@ -6,3 +6,5 @@ I’m 22 years old and a first-year student in the IT Data Analytics program. My
 Right now, I work at ORC Industries as the Wellness Director and Coordinator, but I decided to go back to school to study something I’m really interested in and hopefully build a career out of.
 
 A little about me, I enjoy going to concerts, taking trips, hanging out with friends and family, playing volleyball, scrapbooking, crocheting, doing nails, cooking, and taking pictures. I’m the oldest in my family and have two younger brothers and one younger sister, and I love doing most things with them. I spend a lot of time with friends and family and usually enjoy anything as long as I’m with them, but I also like having my own time to do my hobbies.
+
+![Image](https://github.com/user-attachments/assets/4084eab6-15f1-4cb9-9516-033fbcba0b66)
