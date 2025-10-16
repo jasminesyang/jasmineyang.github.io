@@ -7,4 +7,8 @@ Right now, I work at ORC Industries as the Wellness Director and Coordinator, bu
 
 A little about me, I enjoy going to concerts, taking trips, hanging out with friends and family, playing volleyball, scrapbooking, crocheting, doing nails, cooking, and taking pictures. I’m the oldest in my family and have two younger brothers and one younger sister, and I love doing most things with them. I spend a lot of time with friends and family and usually enjoy anything as long as I’m with them, but I also like having my own time to do my hobbies.
 
+[Jasmine Yang Resume.docx](https://github.com/user-attachments/files/22956135/Jasmine.Yang.Resume.docx)
+
 ![Image](https://github.com/user-attachments/assets/4084eab6-15f1-4cb9-9516-033fbcba0b66)
+
+
