@@ -1,11 +1,7 @@
 # About Me
-Hi everyone! My name is Jasmine Yang, and I’m from Onalaska, WI. I lived there most of my life, and after I graduated high school in 2021, my family moved to West Salem. I stayed there with them for about a year before moving to La Crosse to be closer to friends and college.
+Hi everyone! My name is Jasmine Yang, and I'm from Onalaska, WI. I'm the oldest in my family and have two younger brothers and one younger sister. I spend a lot of time with friends and family, and I usually enjoy everything as long as I’m with them. A little about me, I have a wide range of interests: I enjoy going to concerts, taking trips, playing volleyball, and taking pictures. I also love to spend time scrapbooking, crocheting, and doing nails.
 
-I’m 22 years old and a first-year student in the IT Data Analytics program. My goal is to graduate in the spring of 2027. After that, I hope to find a job in the IT field, maybe at a place like Emplify Health in programming or at Kwik Trip in their IT department.
-
-Right now, I work at ORC Industries as the Wellness Director and Coordinator, but I decided to go back to school to study something I’m really interested in and hopefully build a career out of.
-
-A little about me, I enjoy going to concerts, taking trips, hanging out with friends and family, playing volleyball, scrapbooking, crocheting, doing nails, cooking, and taking pictures. I’m the oldest in my family and have two younger brothers and one younger sister, and I love doing most things with them. I spend a lot of time with friends and family and usually enjoy anything as long as I’m with them, but I also like having my own time to do my hobbies.
+I’m 22 years old and a first-year student in the IT Data Analytics program. My goal is to graduate in the spring of 2027. After that, I hope to find a job in the IT field, perhaps at a place like Emplify Health in programming or in the IT department at Kwik Trip. I believe I would be a great Data Analyst because I have a good attention to details as well as exact precision. I also grew up with multiple members of my family who work in this field, and I find it interesting when looking into careers.
 
 [Jasmine Yang Resume.docx](https://github.com/user-attachments/files/22956135/Jasmine.Yang.Resume.docx)
 
