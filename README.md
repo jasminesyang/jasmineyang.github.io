@@ -9,7 +9,7 @@ A little about me, I enjoy going to concerts, taking trips, hanging out with fri
 
 [Jasmine Yang Resume.docx](https://github.com/user-attachments/files/22956135/Jasmine.Yang.Resume.docx)
 
-[IT-Exploration](https://jasminesyang.github.io/Home/)
+[IT-Exploration](https://jasminesyang.github.io/home/)
 
 ![Image](https://github.com/user-attachments/assets/4084eab6-15f1-4cb9-9516-033fbcba0b66)
 
