@@ -3,6 +3,8 @@ Hi everyone! My name is Jasmine Yang, and I'm from Onalaska, WI. I'm the oldest 
 
 I’m 22 years old and a first-year student in the IT Data Analytics program. My goal is to graduate in the spring of 2027. After that, I hope to find a job in the IT field, perhaps at a place like Emplify Health in programming or in the IT department at Kwik Trip. I believe I would be a great Data Analyst because I have a good attention to details as well as exact precision. I also grew up with multiple members of my family who work in this field, and I find it interesting when looking into careers.
 
+Some of my goals are to graduate in by 2027 and hopefully transfer to a 4 year, get a stable job with my career, and to get my nail tech license by 2027.
+
 [Jasmine Yang Resume.docx](https://github.com/user-attachments/files/22956135/Jasmine.Yang.Resume.docx)
 
 [IT-Exploration](https://jasminesyang.github.io/it-explorations/)
