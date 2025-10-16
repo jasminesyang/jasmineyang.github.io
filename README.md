@@ -9,7 +9,7 @@ Some of my goals are to graduate in by 2027 and hopefully transfer to a 4 year, 
 
 [IT-Exploration](https://jasminesyang.github.io/it-explorations/)
 
-![Image](https://github.com/user-attachments/assets/4084eab6-15f1-4cb9-9516-033fbcba0b66)
+![Image](https://github.com/user-attachments/assets/e4df3b86-278b-473f-b4be-fb477ee45b33)
 
 
 
